@@ -1,0 +1,13 @@
+{
+  "name": "Redacted-Auto-Bot",
+  "version": "1.0.0",
+  "description": "A bot to automate tasks for Redacted Airways",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.7"
+  },
+  "type": "module"
+}
